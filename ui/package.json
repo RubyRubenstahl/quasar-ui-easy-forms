@@ -64,7 +64,6 @@
     "is-what": "^3.8.0",
     "merge-anything": "^2.4.4",
     "nestify-anything": "0.0.0",
-    "quasar-ui-component-info-card": "0.0.7",
     "snarkdown": "github:mesqueeb/snarkdown#dist"
   },
   "ava": {
